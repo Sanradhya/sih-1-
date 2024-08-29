@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .forms-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
